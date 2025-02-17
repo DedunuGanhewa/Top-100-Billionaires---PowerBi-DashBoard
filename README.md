@@ -1,6 +1,6 @@
 # Top-100-Billionaires-PowerBi-DashBoard
 This Power BI dashboard provides a visual analysis of the top 100 billionaires, focusing on key metrics such as wealth distribution, industry segmentation, geographical representation.
-
+![alt text](https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/DashBoard.png)
 ## Features
 
 **Gender Distribution:** Pie chart showcasing the proportion of male and female billionaires.
@@ -22,5 +22,5 @@ This Power BI dashboard provides a visual analysis of the top 100 billionaires, 
 ## DashBoard
 -<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/DashBoard.png">DashBoard</a>
 ## Project
--<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/Top 100 Billionaires.pbix">DashBoard</a>
-![DB](https://github.com/user-attachments/assets/)
+-<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/Top 100 Billionaires.pbix">DashBoard.pbix</a>
+
