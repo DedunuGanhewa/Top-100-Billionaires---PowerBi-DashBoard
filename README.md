@@ -22,4 +22,4 @@ This Power BI dashboard provides a visual analysis of the top 100 billionaires, 
 ## DashBoard
 -<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/DashBoard.png">DashBoard</a>
 ## Project
--<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/DashBoard.png">DashBoard</a>
+-<a href="https://github.com/DedunuGanhewa/Top-100-Billionaires---PowerBi-DashBoard/blob/main/Top 100 Billionaires.pbix">DashBoard</a>
